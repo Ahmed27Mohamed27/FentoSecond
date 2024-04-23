@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:iconTint="#0AB4FF"
+        android:icon="@drawable/icon_ionic_md_home"
+        android:title="@string/home"/>
+    <item
+        android:id="@+id/orders"
+        android:enabled="true"
+        android:iconTint="#0AB4FF"
+        android:icon="@drawable/baseline_reorder_24"
+        android:title="@string/orders"/>
+    <item
+        android:id="@+id/chat"
+        android:enabled="true"
+        android:iconTint="#0AB4FF"
+        android:icon="@drawable/baseline_chat_24"
+        android:title="@string/contact_us"/>
+    <item
+        android:id="@+id/account"
+        android:enabled="true"
+        android:iconTint="#0AB4FF"
+        android:icon="@drawable/icon_feather_settings"
+        android:title="@string/account"/>
+</menu>

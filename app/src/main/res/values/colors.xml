@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0AB4FF</color>
+    <color name="colorPrimaryDark">#0AB4FF</color>
+    <color name="colorAccent">@android:color/darker_gray</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="_bg__login_ek2_color">#FFFFFF</color>
+    <color name="don_t_have_an_account__register_now_color">#24282C</color>
+    <color name="_bg__login_with_ek1_color">#FFFFFF</color>
+    <color name="or_login_with_color">#6A707C</color>
+    <color name="rectangle_173_color">#1E232C</color>
+    <color name="rectangle_4_color">#F6F7F8</color>
+    <color name="enter_your_password_color">#8390A1</color>
+    <color name="rectangle_4_ek1_color">#F7F8F9</color>
+
+</resources>

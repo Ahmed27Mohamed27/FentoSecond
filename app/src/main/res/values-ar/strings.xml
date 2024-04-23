@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vimto a Second</string>
+    <string name="supermarket">سوبر ماركت</string>
+    <string name="restaurants">مطاعم</string>
+    <string name="new_order">طلب جديد</string>
+    <string name="custom_orders">طلبات مخصصة</string>
+    <string name="Pharmacies">صيدليات</string>
+    <string name="custom_order">طلب متخصص</string>
+    <string name="home">الصفحة الرئيسية</string>
+    <string name="orders">صفحة الطلبات</string>
+    <string name="contact_us">الدعم الفني</string>
+    <string name="hire_to_job">التقديم علي وظيفة</string>
+    <string name="log_out">تسجيل الخروج</string>
+    <string name="full_name">الأسم كامل</string>
+    <string name="phone_number">رقم الهاتف</string>
+    <string name="your_address">العنوان بالتفصيل</string>
+    <string name="kind_product">برجاء كتابة جميع المنتجات المطلوبة</string>
+    <string name="order_now">أطلب الأن</string>
+    <string name="request_an_order_via_whatsapp">طلب الاوردر بواسطة الواتس أب</string>
+    <string name="choose_a_language_for_the_application">أختار لغة للتطبيق</string>
+    <string name="order_mandob">طلب مندوب</string>
+    <string name="title_order_mandob">هل انت متأكد من انك تريد طلب مندوب؟</string>
+    <string name="Exit">هل تريد الخروج؟</string>
+    <string name="title_exit">هل انت متأكد انك تريد الخروج من التطبيق؟</string>
+    <string name="account">حسابك</string>
+    <string name="note">ملحوظة (اختياري)</string>
+    <string name="name_supermarket">السوبرماركت الذي تريد منه المنتجات(أختياري)</string>
+    <string name="name_resturant">المطعم الذي تريد منه المنتجات(أختياري)</string>
+    <string name="name_pharmacy">الصيدلية الذي تريد منه المنتجات(أختياري)</string>
+    <string name="send_to_jobs">أرسل إلى الوظائف</string>
+</resources>

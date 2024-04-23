@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Vimto a Second</string>
+
+    <string name="restaurants">Restaurants</string>
+    <string name="new_order">New Order</string>
+    <string name="custom_orders">Custom Orders</string>
+    <string name="Pharmacies">Pharmacies</string>
+    <string name="custom_order">Custom Order</string>
+    <string name="supermarket">SuperMarket</string>
+    <string name="home">Home</string>
+    <string name="orders">Orders</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="hire_to_job">Hire to Job</string>
+    <string name="log_out">Log Out</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="your_address">Your Address</string>
+    <string name="kind_product">Please write all required products</string>
+    <string name="order_now">Order Now</string>
+    <string name="request_an_order_via_whatsapp">Request an order via WhatsApp</string>
+    <string name="choose_a_language_for_the_application">Choose a language for the application</string>
+    <string name="order_mandob">Order Delivery</string>
+    <string name="title_order_mandob">Are you sure you want to order delivery?</string>
+    <string name="Exit">Do you want to Exit?</string>
+    <string name="title_exit">Are you sure you want to exit the application?</string>
+    <string name="account">Account</string>
+    <string name="note">Note (optional)</string>
+    <string name="name_supermarket">Write supermarket products want(optional)</string>
+    <string name="name_resturant">Write resturant products want(optional)</string>
+    <string name="name_pharmacy">Write pharmacy products want(optional)</string>
+    <string name="send_to_jobs">Send To Jobs</string>
+</resources>
